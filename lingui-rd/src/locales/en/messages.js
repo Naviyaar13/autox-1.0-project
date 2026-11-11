@@ -1,0 +1,1 @@
+/*eslint-disable*/module.exports={messages:JSON.parse("{\"UWKWo6\":[\"This is a test application to verify English and Arabic translations using LinguiJS.\"],\"Xm7g28\":[\"Switch Language\"],\"g2DDOD\":[\"heloo this is navi here !!\"],\"vEGGLK\":[\"Internationalization R&D\"]}")};
